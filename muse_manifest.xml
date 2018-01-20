@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="ooley.pro" resolutions="1x" timestamp="1516082484152">
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="ooley.pro" resolutions="1x" timestamp="1516454856791">
   <folder name="images">
     <file name="ooley3.svg" crc="3811933852" seo="true" ref="index"/>
     <file name="ooley3_poster_.png" crc="19288577" ref="index"/>
@@ -44,9 +44,9 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="62426684" ref="phone>index"/>
+      <file name="index.css" crc="4165644948" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="242980477" seo="true" mt="1516019359000" redirect="false"/>
+    <file name="index.html" crc="153390331" seo="true" mt="1516454843067" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
@@ -61,5 +61,5 @@
     <file name="require.js" crc="4159430777" ref="index:phone>index:tablet>index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index"/>
   </folder>
-  <file name="index.html" crc="4088650788" seo="true" mt="1516081547278" redirect="true"/>
+  <file name="index.html" crc="4133117231" seo="true" mt="1516132846138" redirect="true"/>
 </manifest>
