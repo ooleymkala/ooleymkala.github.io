@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1640 1302" style="enable-background:new 0 0 1640 1302;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FFFFFF;stroke-width:40;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:40;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<title>workplace</title>
+<g id="icons">
+	<g id="workspace">
+		<path class="st0" d="M1162.4,84h37.9c44.8,0,81.5,37.5,81.5,83.2v695.9c0,45.8-36.7,83.2-81.5,83.2H101.5
+			c-44.9,0-81.5-37.4-81.5-83.2V167.3C20,121.5,56.7,84,101.5,84h855"/>
+		<line class="st0" x1="20" y1="796.3" x2="1281.8" y2="796.3"/>
+		<path class="st0" d="M73,1137.4h1494c29.3,0,53,23.7,53,53v38.6c0,29.3-23.7,53-53,53H73c-29.3,0-53-23.7-53-53v-38.6
+			C20,1161.1,43.7,1137.4,73,1137.4z"/>
+		<line class="st0" x1="466.5" y1="946.3" x2="466.5" y2="1137.4"/>
+		<line class="st0" x1="835.4" y1="946.3" x2="835.4" y2="1137.4"/>
+		<path class="st0" d="M1088,1122.5v-15c0-45.8,36.7-83.2,81.5-83.2h279.4c44.8,0,81.5,37.4,81.5,83.2v15"/>
+		<line class="st0" x1="1407.5" y1="1024.2" x2="1530.4" y2="586.2"/>
+		<ellipse class="st0" cx="1544.5" cy="531" rx="67.5" ry="68.9"/>
+		<line class="st0" x1="1495.7" y1="483.9" x2="1168.2" y2="228.8"/>
+		<path class="st0" d="M890.2,181L961,69.6c41.4-55.4,119-66,173.3-23.8s64.7,121.5,23.3,176.9l-58.8,87.8"/>
+		<polygon class="st1" points="1104,514 711.5,273.7 828.5,152.8 1153.4,351.6 		"/>
+	</g>
+</g>
+</svg>

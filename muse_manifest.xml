@@ -1,0 +1,65 @@
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="ooley.pro" resolutions="1x" timestamp="1516082484152">
+  <folder name="images">
+    <file name="ooley3.svg" crc="3811933852" seo="true" ref="index"/>
+    <file name="ooley3_poster_.png" crc="19288577" ref="index"/>
+    <file name="rrr.jpg" crc="427206680" ref="index"/>
+    <file name="ooley2.svg" crc="3804952217" ref="index"/>
+    <file name="ooley2_poster_u330.png" crc="4077476918" ref="index"/>
+    <file name="team.svg" crc="4205278862" seo="true" ref="index"/>
+    <file name="team_poster_.png" crc="4255535838" ref="index"/>
+    <file name="u528-4.png" crc="4124547764" ref="index"/>
+    <file name="u845-4.png" crc="67636376" ref="index"/>
+    <file name="вставленное изображение 828x552.png" crc="3934971698" seo="true" ref="index"/>
+    <file name="u928-4.png" crc="4140257616" ref="index"/>
+    <file name="talk.svg" crc="191559347" seo="true" ref="index"/>
+    <file name="talk_poster_.png" crc="24049997" ref="index"/>
+    <file name="sbox.svg" crc="111452079" seo="true" ref="index"/>
+    <file name="sbox_poster_.png" crc="498210059" ref="index"/>
+    <file name="relax.svg" crc="48197682" seo="true" ref="index"/>
+    <file name="relax_poster_.png" crc="3794585255" ref="index"/>
+    <file name="inet.svg" crc="129967177" seo="true" ref="index"/>
+    <file name="inet_poster_.png" crc="4014433218" ref="index"/>
+    <file name="clock.svg" crc="3995497844" seo="true" ref="index"/>
+    <file name="clock_poster_.png" crc="4005650732" ref="index"/>
+    <file name="guest.svg" crc="22362674" seo="true" ref="index"/>
+    <file name="guest_poster_.png" crc="105222246" ref="index"/>
+    <file name="workplace.svg" crc="183092805" seo="true" ref="index"/>
+    <file name="workplace_poster_.png" crc="3783666342" ref="index"/>
+    <file name="printer.svg" crc="4067575205" seo="true" ref="index"/>
+    <file name="printer_poster_.png" crc="313352020" ref="index"/>
+    <file name="tea.svg" crc="364397715" seo="true" ref="index"/>
+    <file name="tea_poster_.png" crc="4273398791" ref="index"/>
+    <file name="mol.svg" crc="150555516" seo="true" ref="index"/>
+    <file name="mol_poster_.png" crc="3987403502" ref="index"/>
+    <file name="logoup.svg" crc="477102756" ref="index"/>
+    <file name="logoup_poster_u994.png" crc="3872735482" ref="index"/>
+    <file name="hvhv.svg" crc="4160268888" ref="index"/>
+    <file name="hvhv_poster_u1021.png" crc="124234468" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="4021538510" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="4206133106" seo="true" mt="1516019358865" redirect="false"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="62426684" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="242980477" seo="true" mt="1516019359000" redirect="false"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3810792322" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index:tablet>index"/>
+    <file name="museutils.js" crc="4148063285" ref="index:phone>index:tablet>index"/>
+    <file name="whatinput.js" crc="86476730" ref="index:phone>index:tablet>index"/>
+    <file name="museconfig.js" crc="172512987" ref="index:phone>index:tablet>index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:phone>index:tablet>index"/>
+    <file name="require.js" crc="4159430777" ref="index:phone>index:tablet>index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4088650788" seo="true" mt="1516081547278" redirect="true"/>
+</manifest>
