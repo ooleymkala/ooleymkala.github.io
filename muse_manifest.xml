@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="ooley.pro" resolutions="1x" timestamp="1516454856791">
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="ooley.pro" resolutions="1x" timestamp="1516658902177">
   <folder name="images">
     <file name="ooley3.svg" crc="3811933852" seo="true" ref="index"/>
     <file name="ooley3_poster_.png" crc="19288577" ref="index"/>
@@ -7,34 +7,73 @@
     <file name="ooley2_poster_u330.png" crc="4077476918" ref="index"/>
     <file name="team.svg" crc="4205278862" seo="true" ref="index"/>
     <file name="team_poster_.png" crc="4255535838" ref="index"/>
-    <file name="u528-4.png" crc="4124547764" ref="index"/>
-    <file name="u845-4.png" crc="67636376" ref="index"/>
-    <file name="вставленное изображение 828x552.png" crc="3934971698" seo="true" ref="index"/>
-    <file name="u928-4.png" crc="4140257616" ref="index"/>
-    <file name="talk.svg" crc="191559347" seo="true" ref="index"/>
-    <file name="talk_poster_.png" crc="24049997" ref="index"/>
-    <file name="sbox.svg" crc="111452079" seo="true" ref="index"/>
-    <file name="sbox_poster_.png" crc="498210059" ref="index"/>
-    <file name="relax.svg" crc="48197682" seo="true" ref="index"/>
-    <file name="relax_poster_.png" crc="3794585255" ref="index"/>
-    <file name="inet.svg" crc="129967177" seo="true" ref="index"/>
-    <file name="inet_poster_.png" crc="4014433218" ref="index"/>
-    <file name="clock.svg" crc="3995497844" seo="true" ref="index"/>
-    <file name="clock_poster_.png" crc="4005650732" ref="index"/>
-    <file name="guest.svg" crc="22362674" seo="true" ref="index"/>
-    <file name="guest_poster_.png" crc="105222246" ref="index"/>
-    <file name="workplace.svg" crc="183092805" seo="true" ref="index"/>
-    <file name="workplace_poster_.png" crc="3783666342" ref="index"/>
-    <file name="printer.svg" crc="4067575205" seo="true" ref="index"/>
-    <file name="printer_poster_.png" crc="313352020" ref="index"/>
-    <file name="tea.svg" crc="364397715" seo="true" ref="index"/>
-    <file name="tea_poster_.png" crc="4273398791" ref="index"/>
-    <file name="mol.svg" crc="150555516" seo="true" ref="index"/>
-    <file name="mol_poster_.png" crc="3987403502" ref="index"/>
     <file name="logoup.svg" crc="477102756" ref="index"/>
     <file name="logoup_poster_u994.png" crc="3872735482" ref="index"/>
     <file name="hvhv.svg" crc="4160268888" ref="index"/>
     <file name="hvhv_poster_u1021.png" crc="124234468" ref="index"/>
+    <file name="нпг.svg" crc="519966304" seo="true" ref="index"/>
+    <file name="нпг_poster_.png" crc="3828348720" ref="index"/>
+    <file name="dsc05968.jpg" crc="4125881093" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="dsc05970.jpg" crc="313791075" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="dsc05971.jpg" crc="324866164" seo="true" ref="index"/>
+    <file name="dsc05972.jpg" crc="3769926601" seo="true" ref="index"/>
+    <file name="dsc05977.jpg" crc="476541202" seo="true" ref="index"/>
+    <file name="dsc05984.jpg" crc="419535343" seo="true" ref="index"/>
+    <file name="dsc05986.jpg" crc="4212901661" seo="true" ref="index"/>
+    <file name="dsc05987.jpg" crc="354854420" seo="true" ref="index"/>
+    <file name="dsc06022.jpg" crc="388821082" seo="true" ref="index"/>
+    <file name="dsc06032.jpg" crc="30463713" seo="true" ref="index"/>
+    <file name="dsc06042.jpg" crc="209337538" seo="true" ref="index"/>
+    <file name="dsc06047.jpg" crc="3785303870" seo="true" ref="index"/>
+    <file name="dsc06055.jpg" crc="232274440" seo="true" ref="index"/>
+    <file name="dsc06065.jpg" crc="4092357152" seo="true" ref="index"/>
+    <file name="dsc06077.jpg" crc="3988130628" seo="true" ref="index"/>
+    <file name="dsc06341.jpg" crc="94486959" seo="true" ref="index"/>
+    <file name="dsc06350.jpg" crc="4222261833" seo="true" ref="index"/>
+    <file name="здфты.svg" crc="3833274008" seo="true" ref="index"/>
+    <file name="здфты_poster_.png" crc="3829520670" ref="index"/>
+    <file name="9.svg" crc="4112281233" seo="true" ref="index"/>
+    <file name="9_poster_.png" crc="3796225539" ref="index"/>
+    <file name="untitled-3.svg" crc="442607150" seo="true" ref="index"/>
+    <file name="untitled-3_poster_.png" crc="5048905" ref="index"/>
+    <file name="nofix.svg" crc="3788330011" seo="true" ref="index"/>
+    <file name="nofix_poster_.png" crc="87002549" ref="index"/>
+    <file name="8.svg" crc="3768804561" seo="true" ref="index"/>
+    <file name="8_poster_.png" crc="4178945461" ref="index"/>
+    <file name="7.svg" crc="4141534792" seo="true" ref="index"/>
+    <file name="7_poster_.png" crc="216325020" ref="index"/>
+    <file name="6.svg" crc="286205994" seo="true" ref="index"/>
+    <file name="6_poster_.png" crc="4115724986" ref="index"/>
+    <file name="4.svg" crc="314780330" seo="true" ref="index"/>
+    <file name="4_poster_.png" crc="515986377" ref="index"/>
+    <file name="5.svg" crc="367607749" seo="true" ref="index"/>
+    <file name="5_poster_.png" crc="3819381917" ref="index"/>
+    <file name="1.svg" crc="196183242" seo="true" ref="index"/>
+    <file name="1_poster_.png" crc="3998175772" ref="index"/>
+    <file name="3.svg" crc="4119833202" seo="true" ref="index"/>
+    <file name="3_poster_.png" crc="424795174" ref="index"/>
+    <file name="11.svg" crc="11317836" seo="true" ref="index"/>
+    <file name="11_poster_.png" crc="3767996509" ref="index"/>
+    <file name="12.svg" crc="3809704020" seo="true" ref="index"/>
+    <file name="12_poster_.png" crc="392372120" ref="index"/>
+    <file name="35.svg" crc="3874003656" seo="true" ref="index"/>
+    <file name="35_poster_.png" crc="4181394722" ref="index"/>
+    <file name="115.svg" crc="4045052889" seo="true" ref="index"/>
+    <file name="115_poster_.png" crc="4099880964" ref="index"/>
+    <file name="105.svg" crc="49602203" seo="true" ref="index"/>
+    <file name="105_poster_.png" crc="286153392" ref="index"/>
+    <file name="15.svg" crc="460565885" seo="true" ref="index"/>
+    <file name="15_poster_.png" crc="4075277732" ref="index"/>
+    <file name="85.svg" crc="3764457371" seo="true" ref="index"/>
+    <file name="85_poster_.png" crc="4259203579" ref="index"/>
+    <file name="45.svg" crc="82060200" seo="true" ref="index"/>
+    <file name="45_poster_.png" crc="4221400638" ref="index"/>
+    <file name="65.svg" crc="3844740756" seo="true" ref="index"/>
+    <file name="65_poster_.png" crc="4201805204" ref="index"/>
+    <file name="55.svg" crc="293984273" seo="true" ref="index"/>
+    <file name="55_poster_.png" crc="372832186" ref="index"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -50,7 +89,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="3810792322" ref="index"/>
+    <file name="index.css" crc="4056351796" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index:tablet>index"/>
@@ -60,6 +99,10 @@
     <file name="jquery.watch.js" crc="437028206" ref="index:phone>index:tablet>index"/>
     <file name="require.js" crc="4159430777" ref="index:phone>index:tablet>index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index"/>
+    <file name="webpro.js" crc="3986320349" ref="index"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="index"/>
+    <file name="touchswipe.js" crc="221459597" ref="index"/>
   </folder>
-  <file name="index.html" crc="4133117231" seo="true" mt="1516132846138" redirect="true"/>
+  <file name="index.html" crc="3838798963" seo="true" mt="1516658849283" redirect="true"/>
 </manifest>
