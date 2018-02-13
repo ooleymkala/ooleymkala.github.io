@@ -1,19 +1,19 @@
-<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="ooley.pro" resolutions="1x" timestamp="1516712385134">
+<manifest alg="2" build="2017.0.1.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="ooley.pro" resolutions="1x" timestamp="1518529260352">
   <folder name="images">
-    <file name="ooley3.svg" crc="3811933852" seo="true" ref="index"/>
-    <file name="ooley3_poster_.png" crc="19288577" ref="index"/>
+    <file name="ooley3.svg" crc="3811933852" seo="true" ref="index:phone>index"/>
+    <file name="ooley3_poster_.png" crc="19288577" ref="phone>index"/>
     <file name="team.svg" crc="4205278862" seo="true" ref="index"/>
     <file name="team_poster_.png" crc="4255535838" ref="index"/>
-    <file name="logoup.svg" crc="477102756" ref="index"/>
-    <file name="logoup_poster_u994.png" crc="3872735482" ref="index"/>
-    <file name="hvhv.svg" crc="4160268888" ref="index"/>
+    <file name="logoup.svg" crc="477102756" ref="index:phone>index"/>
+    <file name="logoup_poster_u994.png" crc="3872735482" ref="index:phone>index"/>
+    <file name="hvhv.svg" crc="4160268888" ref="phone>index" seo="true"/>
     <file name="hvhv_poster_u1021.png" crc="124234468" ref="index"/>
-    <file name="нпг.svg" crc="519966304" seo="true" ref="index"/>
-    <file name="нпг_poster_.png" crc="3993781033" ref="index"/>
+    <file name="нпг.svg" crc="519966304" seo="true" ref="phone>index"/>
+    <file name="нпг_poster_.png" crc="3884154389" ref="phone>index"/>
     <file name="dsc05968.jpg" crc="4125881093" seo="true" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:phone>index"/>
     <file name="dsc05970.jpg" crc="313791075" seo="true" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:phone>index"/>
     <file name="dsc05971.jpg" crc="324866164" seo="true" ref="index"/>
     <file name="dsc05972.jpg" crc="3769926601" seo="true" ref="index"/>
     <file name="dsc05977.jpg" crc="476541202" seo="true" ref="index"/>
@@ -71,6 +71,31 @@
     <file name="65_poster_.png" crc="4201805204" ref="index"/>
     <file name="55.svg" crc="293984273" seo="true" ref="index"/>
     <file name="55_poster_.png" crc="372832186" ref="index"/>
+    <file name="grass-2.svg" crc="4199616361" seo="true" ref="phone>index"/>
+    <file name="grass-2_poster_.png" crc="186884781" ref="phone>index"/>
+    <file name="hvhv_poster_.png" crc="124234468" ref="phone>index"/>
+    <file name="dsc05968-u2913.png" crc="165566382" ref="phone>index"/>
+    <file name="dsc05970-u3133.png" crc="3876129170" ref="phone>index"/>
+    <file name="dsc05971-u3159.png" crc="148900345" ref="phone>index"/>
+    <file name="dsc05972-u3185.png" crc="338287212" ref="phone>index"/>
+    <file name="dsc05977-u3211.png" crc="439192691" ref="phone>index"/>
+    <file name="dsc05984-u3237.png" crc="238219502" ref="phone>index"/>
+    <file name="dsc05986-u3263.png" crc="288313377" ref="phone>index"/>
+    <file name="dsc05987-u3289.png" crc="3808518218" ref="phone>index"/>
+    <file name="dsc06022-u3315.png" crc="4115179251" ref="phone>index"/>
+    <file name="dsc06032-u3341.png" crc="114500009" ref="phone>index"/>
+    <file name="dsc06042-u3367.png" crc="3843539462" ref="phone>index"/>
+    <file name="dsc06047-u3393.png" crc="4036755690" ref="phone>index"/>
+    <file name="dsc06055-u3419.png" crc="263538349" ref="phone>index"/>
+    <file name="dsc06065-u3445.png" crc="269460996" ref="phone>index"/>
+    <file name="dsc06077-u3471.png" crc="4074139857" ref="phone>index"/>
+    <file name="dsc06341-u3497.png" crc="446306492" ref="phone>index"/>
+    <file name="dsc06350-u3523.png" crc="156741480" ref="phone>index"/>
+    <file name="ыв.svg" crc="175055627" seo="true" ref="phone>index"/>
+    <file name="ыв_poster_.png" crc="82189401" ref="phone>index"/>
+    <file name="hvhv2.svg" crc="4160268888" ref="index"/>
+    <file name="нпг2.svg" crc="519966304" seo="true" ref="index"/>
+    <file name="нпг_poster_2.png" crc="3993781033" ref="index"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -80,13 +105,13 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4165644948" ref="phone>index"/>
+      <file name="index.css" crc="65236941" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="153390331" seo="true" mt="1516454843067" redirect="true"/>
+    <file name="index.html" crc="4040573461" seo="true" mt="1518529215312" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="3841140560" ref="index"/>
+    <file name="index.css" crc="3929308630" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:phone>index:tablet>index"/>
@@ -95,10 +120,10 @@
     <file name="museconfig.js" crc="172512987" ref="index:phone>index:tablet>index"/>
     <file name="jquery.watch.js" crc="437028206" ref="index:phone>index:tablet>index"/>
     <file name="require.js" crc="4159430777" ref="index:phone>index:tablet>index"/>
-    <file name="webpro.js" crc="3986320349" ref="index"/>
-    <file name="musewpslideshow.js" crc="405464237" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="305414130" ref="index"/>
-    <file name="touchswipe.js" crc="221459597" ref="index"/>
+    <file name="webpro.js" crc="3986320349" ref="index:phone>index"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="index:phone>index"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="index:phone>index"/>
+    <file name="touchswipe.js" crc="221459597" ref="index:phone>index"/>
   </folder>
-  <file name="index.html" crc="197237455" seo="true" mt="1516712364664" redirect="true"/>
+  <file name="index.html" crc="184803657" seo="true" mt="1518525946562" redirect="true"/>
 </manifest>
